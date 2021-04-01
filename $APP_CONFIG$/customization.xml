@@ -1,0 +1,9 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="PublishGroup.DownloadFrom" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="기본 도구 모음" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>

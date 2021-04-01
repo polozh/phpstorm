@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df1de5c6-1ce4-45fd-86d6-ab538a7eae8e" name="netscrap.co.kr" url="http://netscrap.co.kr">
+        <fileTransfer rootFolder="/polorl/www" accessType="SFTP" host="netscrap.co.kr" port="22" sshConfigId="bc459252-9762-4574-a1d3-3660e4e1b0fb" sshConfig="polorl@netscrap.co.kr:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
