@@ -8,6 +8,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="2733c76f-f009-49a0-a0b6-8fb929a5d112" name="bizmall_local" url="http://local.insterior.biz">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
