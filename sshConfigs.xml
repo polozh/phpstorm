@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="netscrap.co.kr" id="bc459252-9762-4574-a1d3-3660e4e1b0fb" port="22" nameFormat="DESCRIPTIVE" username="polorl" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="netscrap.co.kr" id="bc459252-9762-4574-a1d3-3660e4e1b0fb" port="22" nameFormat="DESCRIPTIVE" username="polorl" />
     </configs>
   </component>
 </application>
